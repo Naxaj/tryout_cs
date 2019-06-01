@@ -1,2 +1,2 @@
-# First Message will be #
-Hello World XD
+#Content of this project#
+Some stupid stuff I guess
